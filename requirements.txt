@@ -1,0 +1,6 @@
+tensorflow>=2.15.0
+gradio
+opencv-python-headless
+numpy
+matplotlib
+scipy
