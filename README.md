@@ -24,3 +24,18 @@ Due to GitHub's file size limitations (25MB for browser uploads), the trained mo
 
 Research Context
 This project utilizes the HAM10000 dataset to bridge the gap between computational deep learning and clinical dermatological diagnostics.
+
+
+
+
+
+Multi-Language Support for Inclusive Diagnostics
+To bridge the gap in healthcare accessibility, the ADCI Suite interface is localized into four languages, ensuring it can be used by clinicians and patients across different geographic and linguistic backgrounds:
+
+English: Standard for international clinical research and global academic exchange.
+
+Hindi: To support healthcare delivery in regional clinics across North and Central India.
+
+Kannada: To facilitate diagnostic outreach in South India, specifically targeting regional medical centers.
+
+German: Aligned with my german proficiency, allowing for integration into European digital health frameworks.
