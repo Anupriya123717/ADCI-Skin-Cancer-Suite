@@ -3,6 +3,12 @@ An AI-driven dermatological diagnostic suite featuring Grad-CAM visualization an
 
 Model Weights & Deployment
 
+This repository provides the ADCI model in two formats to ensure maximum compatibility and reproducibility:
+
+1.⁠ ⁠Production Model (⁠ .keras ⁠):A complete archive containing the model architecture, weights, and optimizer. Recommended for direct loading using ⁠ tf.keras.models.load_model() ⁠.
+
+
+2.⁠ ⁠Model Weights (⁠ .weights.h5 ⁠):Individual weights used by the ⁠ app.py ⁠ deployment script.
 
 
 Due to GitHub's file size limitations (25MB for browser uploads), the trained model weights are hosted on Google Drive.
